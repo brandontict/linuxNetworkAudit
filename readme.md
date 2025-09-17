@@ -235,11 +235,6 @@ This tool is intended for educational purposes and authorized penetration testin
 
 **Use responsibly and ethically.**
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/kali-network-audit/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/kali-network-audit/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/kali-network-audit/wiki)
 
 ## 🏷️ Version History
 
