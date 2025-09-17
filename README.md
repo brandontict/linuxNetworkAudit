@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0-green.svg)
 
+ Traditionally, I used netstat piped through grep for rapid network information extraction. My LLM and I automated the process and added a few more features :-D . Updates will keep rolling out. Tested on Kali Rolling . 
+ 
 A comprehensive network security audit script designed specifically for Kali Linux penetration testing environments. This script performs automated security checks to ensure your pentesting laptop isn't inadvertently exposing services or vulnerable to attacks.
 
 ## 🎯 Features
