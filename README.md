@@ -1,4 +1,4 @@
-# Kali Linux Network Security Audit Script by Brandontict
+# Kali Linux Network Security Audit Script -- Keep Your Linux box harden 
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
